@@ -2,6 +2,8 @@
 
 ZSH configuration file and how to settup the theme
 
+![](./zshscreenshot.png)
+
 ## Settup zsh on the Windows Terminal with WSL2
 
 ### Install Oh-My-ZSH
