@@ -33,6 +33,6 @@ I used this website to get the icons code by importing the file of the font we d
 
 ### Install Pfetch
 
-I installed [pfetch] (https://github.com/dylanaraps/pfetch)
+I installed [pfetch](https://github.com/dylanaraps/pfetch) to get the information about the system everytime i open a session in the terminal
 
 Clone the repository and install it using this command : `sudo install pfetch/pfetch /usr/local/bin/ ls -l /usr/local/bin/pfetch`
