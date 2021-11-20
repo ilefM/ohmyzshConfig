@@ -2,7 +2,7 @@
 
 ZSH configuration file and how to settup the theme
 
-![](./zshscreenshot.png)
+![](zshscreenshot.PNG)
 
 ## Settup zsh on the Windows Terminal with WSL2
 
