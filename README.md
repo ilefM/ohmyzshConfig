@@ -25,7 +25,7 @@ Clone the repo from the Powerlevel9k [github repository](https://github.com/Powe
 
 ### Copy my configuration file
 
-Copy the configuation file `zshrc` into your `.zshrc` config file in your home folder to get the same settings and the look of the screenshot above (You dont need to copy everyting)
+Copy the configuation file `zshrc` into your `.zshrc` config file in your home folder to get the same settings and the look of the screenshot above. You dont need to copy everyting, just the lines 11 to 22 and the last one.
 
 I used this website to get the icons code by importing the file of the font we downloaded above :
 
